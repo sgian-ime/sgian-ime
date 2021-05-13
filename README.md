@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sgian-ime
+- 👀 I’m interested in scripting, and automation
+- 🌱 I’m currently learning C, bash, and general Linux stuff
